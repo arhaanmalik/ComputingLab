@@ -24,3 +24,26 @@ Implement a queue using a circular linked list with a single pointer acting as b
 
 ### Reference
 - [Lab Test–1 Question Paper](./Module1-sorting_searching/Cl_lab_test1.pdf)
+
+weak 2 test question :-[Test](./Module1-sorting_searching/Test-2.pdf)
+
+
+
+
+
+## Module 2: Dynamic Programming
+
+This module introduces the concept of Dynamic Programming as an optimization technique for solving problems with overlapping subproblems and optimal substructure.
+
+### Topics Covered
+- Motivation and intuition behind Dynamic Programming  
+- Overlapping subproblems and optimal substructure  
+- Comparison with naive recursive approaches  
+- Bottom-up and top-down (memoization) strategies  
+- Classic Dynamic Programming problem patterns
+
+### Reference
+- [Dynamic Programming – Lecture Slides](./Module2-dp-LinkedList/DynamicProgrammingCS69201.pdf)
+- [Class test 1](./Module2-dp-LinkedList/class_test_1)
+- [Take home ](./Module2-dp-LinkedList/take_home)
+ß
