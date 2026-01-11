@@ -175,3 +175,22 @@ This module introduces fundamental concepts of system-level programming, focusin
 ### Reference
 - [System-Level Programming – Lecture Slides](./Module7-thread/CLlab_week9_ppt.pdf)
 - [Assiment Threading](./Module7-thread/ass_threading)
+
+
+
+
+## Module 9: Signals and Mutexes
+
+This module introduces inter-process communication and synchronization concepts, focusing on signals and mutexes used in concurrent and system-level programming.
+
+### Topics Covered
+- Introduction to signals and signal handling  
+- Process communication using signals  
+- Concept of mutual exclusion  
+- Mutexes and synchronization basics  
+- Common concurrency issues and handling
+
+### Reference
+- [Signals and Mutexes – Tutorial Slides](./=Module8-Signals_and_mutex/tutorial_slide_signal_and_mutex.pdf)
+- [Class Test 1](./Module8-Signals_and_mutex/class_test_1/)
+- [Class test 2](./Module8-Signals_and_mutex/class_test_2/)
