@@ -85,3 +85,21 @@ This module covers tree-based data structures with a focus on balanced binary se
 - [Avl in class test](./Module4-tree_bst_avl/avl_in_class)
 - [Tree in class test](./Module4-tree_bst_avl/bst_in_class)
 - [Tree Home ass](./Module4-tree_bst_avl/tree_home_ass)
+
+
+
+## Module 5: Tries
+
+This module introduces the Trie data structure, which is primarily used for efficient storage and retrieval of strings, especially in prefix-based searching.
+
+### Topics Covered
+- Trie structure and node representation  
+- Insertion and search operations  
+- Prefix matching and autocomplete concepts  
+- Time and space complexity analysis  
+- Applications of tries in string processing
+
+### Reference
+- [Tries – Lecture Slides](./Module5-Graph_and_tries/CS69201_Tries.pdf)
+- [Graph assinment](./Module5-Graph_and_tries/graph_ass)
+- [Tries Assinment](./Module5-Graph_and_tries/tries_ass)
