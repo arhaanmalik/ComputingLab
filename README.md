@@ -158,3 +158,20 @@ This part introduces the fundamentals of Natural Language Processing with a focu
 #### Reference
 - [NLP – Lecture Slides](./Module7-NLTK_skitlearn/sciktlearn/NLTK-Slides.pdf)
 - [Class test ](./Module7-NLTK_skitlearn/sciktlearn)
+
+
+
+
+## Module 8: System-Level Programming Basics
+
+This module introduces fundamental concepts of system-level programming, focusing on understanding how programs interact with the operating system.
+
+### Topics Covered
+- Introduction to system-level programming  
+- Basic system calls and their usage  
+- Process and execution concepts  
+- Practical examples and demonstrations  
+
+### Reference
+- [System-Level Programming – Lecture Slides](./Module7-thread/CLlab_week9_ppt.pdf)
+- [Assiment Threading](./Module7-thread/ass_threading)

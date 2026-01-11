@@ -1,0 +1,38 @@
+1. What is your structure?
+The program uses a structure named OperationData to hold the input parameters and the result for each mathematical operation. The structure is defined as follows:
+struct OperationData {
+    int x;            // The first operand for the operation
+    int y;            // The second operand for the operation
+    double result;    // The result of the operation (double for compatibility with division)
+    bool thread_failed; // Indicates if thread creation failed for the operation
+};
+
+What is your input format?
+The input is taken from the terminal using standard input (cin). The program asks the user to enter two integers for each of the five mathematical operations (addition, subtraction, multiplication, division, and exponentiation). The input sequence is as follows:
+1.	Two integers for addition.
+2.	Two integers for subtraction.
+3.	Two integers for multiplication.
+4.	Two integers for division.
+5.	Two integers for exponentiation.
+
+What is your output format?
+The program prints the results of each mathematical operation to the terminal. The output format includes the operation performed, the input values, and the computed result. If thread creation fails for any operation, the result is displayed as -100 for that operation.
+The results are shown in the following format:
+Results:
+Addition: x + y = result
+Subtraction: x - y = result
+Multiplication: x * y = result
+Division: x / y = result
+Exponentiation: x ^ y = result
+
+
+Time taken for sample 1 for 500 operation (x=2, y=3) = 16355 microseconds
+Time taken for sample 2 for 500 operation (x=3, y=4) = 31386 microseconds
+Time taken for sample 3 for 500 operation (x=4, y=5) = 19482 microseconds
+Time taken for sample 4 for 500 operation (x=5, y=6) = 11997 microseconds
+Time taken for sample 5 for 500 operation (x=6, y=7) = 23836 microseconds
+ Average: 20,611.2 microseconds
+Standard Deviation: 6,666.3 microseconds
+  Median: 19,482 microseconds
+  95th Percentile: 31,386 microseconds
+  Maximum Time: 31,386 microseconds
