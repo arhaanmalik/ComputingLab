@@ -8,4 +8,4 @@
   C programming basics, stacks, queues, linked lists, sorting techniques (merge sort), compiling and running C programs using GCC.
 
 - **Reference Material:**  
-  - `Introductory_Slides_CS69201.pdf ` [Introductory Slides – CS69201](./Introductory_Slides_CS69201.pdf) – Official introductory lecture slides used for this class.
+  - `Introductory_Slides_CS69201.pdf ` [Introductory Slides – CS69201](./Introductory_Slides_CS69201.pdf) –  introductory lecture slides used for this class.
