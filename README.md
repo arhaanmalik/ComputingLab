@@ -194,3 +194,20 @@ This module introduces inter-process communication and synchronization concepts,
 - [Signals and Mutexes – Tutorial Slides](./=Module8-Signals_and_mutex/tutorial_slide_signal_and_mutex.pdf)
 - [Class Test 1](./Module8-Signals_and_mutex/class_test_1/)
 - [Class test 2](./Module8-Signals_and_mutex/class_test_2/)
+
+
+
+## Module 10: Bash Scripting
+
+This module introduces Bash scripting for automating tasks and interacting with the Unix/Linux command-line environment.
+
+### Topics Covered
+- Basics of shell scripting  
+- Variables and control flow  
+- File and process handling  
+- Writing and executing Bash scripts  
+- Common use cases and automation tasks  
+
+### Reference
+- [Bash Scripting – Lecture Slides](./Module9-bashProgramming/Bash_scripting_ppt.pdf)
+- [Class Test](./Module9-bashProgramming/class_test)
