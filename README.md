@@ -65,3 +65,23 @@ This module introduces Locality Sensitive Hashing as an efficient technique for 
 - [LSH take home ](./Module3-hashing/LSH_takehome)
 - [Class test ](./Module3-hashing/class_test_1) 
 
+
+
+
+
+## Module 4: Trees and AVL Trees
+
+This module covers tree-based data structures with a focus on balanced binary search trees, introducing AVL trees and their role in maintaining efficient operations.
+
+### Topics Covered
+- Basic tree terminology and properties  
+- Binary Search Trees (BST)  
+- Tree traversals  
+- AVL trees and self-balancing rotations  
+- Time complexity analysis of tree operations
+
+### Reference
+- [Trees and AVL Trees – Lecture Slides](./Module4-tree_bst_avl/Tree_and_AVL_Tree_CS69201.pdf)
+- [Avl in class test](./Module4-tree_bst_avl/avl_in_class)
+- [Tree in class test](./Module4-tree_bst_avl/bst_in_class)
+- [Tree Home ass](./Module4-tree_bst_avl/tree_home_ass)

@@ -1,0 +1,7 @@
+Not Found
+The height of the tree is 2
+Preorder: 45 20 10 31 54 49 77
+Postorder: 10 31 20 49 77 54 45
+Inorder: 10 20 31 45 49 54 77
+Level order: 45 20 54 10 31 49 77
+Zig zag order: 45 54 20 10 31 49 77
