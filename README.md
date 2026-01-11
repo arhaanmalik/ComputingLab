@@ -103,3 +103,23 @@ This module introduces the Trie data structure, which is primarily used for effi
 - [Tries – Lecture Slides](./Module5-Graph_and_tries/CS69201_Tries.pdf)
 - [Graph assinment](./Module5-Graph_and_tries/graph_ass)
 - [Tries Assinment](./Module5-Graph_and_tries/tries_ass)
+
+
+
+## Module 6: Linear Programming
+
+This module introduces Linear Programming as an optimization technique for solving problems with linear objective functions and linear constraints.
+
+### Topics Covered
+- Formulation of linear programming problems  
+- Objective functions and constraints  
+- Feasible region and optimal solutions  
+- Introduction to algorithmic approaches for LP  
+- Practical implementation using programming
+
+### Reference
+- [Linear Programming – Lecture Slides](./Module6-LinearProgramming/LP_slides.pdf)
+- [linearprogramming_tutorial.py](./Module6-LinearProgramming/linearprogramming_tutorial.py) – Tutorial code demonstrating linear programming concepts
+
+- [Class Test -1](./Module6-LinearProgramming/LP_in_class/)
+- [Class Test -2](./Module6-LinearProgramming/assiment2/)
