@@ -123,3 +123,38 @@ This module introduces Linear Programming as an optimization technique for solvi
 
 - [Class Test -1](./Module6-LinearProgramming/LP_in_class/)
 - [Class Test -2](./Module6-LinearProgramming/assiment2/)
+
+
+
+
+## Module 7: Graphs and Network Analysis
+
+### Part 1: Graph Basics using NetworkX
+
+This part introduces graph representation and analysis using the NetworkX library, focusing on practical construction and manipulation of graphs.
+
+#### Topics Covered
+- Graph representation (nodes and edges)  
+- Directed and undirected graphs  
+- Basic graph operations and properties  
+- Visualization and traversal using NetworkX  
+
+#### Reference
+- [Networkx_Tutorial](./Module7-NLTK_skitlearn/Networkx/Networkx_Tutorial.ipynb) – Hands-on tutorial for graph creation and analysis using NetworkX
+- [Networkx class test](./Module7-NLTK_skitlearn/Networkx)
+
+
+
+### Part 2: Introduction to Natural Language Processing (NLP)
+
+This part introduces the fundamentals of Natural Language Processing with a focus on text processing and basic language analysis techniques.
+
+#### Topics Covered
+- Basics of Natural Language Processing  
+- Text preprocessing and tokenization  
+- Introduction to NLP libraries and tools  
+- Overview of language analysis tasks  
+
+#### Reference
+- [NLP – Lecture Slides](./Module7-NLTK_skitlearn/sciktlearn/NLTK-Slides.pdf)
+- [Class test ](./Module7-NLTK_skitlearn/sciktlearn)
