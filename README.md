@@ -46,4 +46,22 @@ This module introduces the concept of Dynamic Programming as an optimization tec
 - [Dynamic Programming – Lecture Slides](./Module2-dp-LinkedList/DynamicProgrammingCS69201.pdf)
 - [Class test 1](./Module2-dp-LinkedList/class_test_1)
 - [Take home ](./Module2-dp-LinkedList/take_home)
-ß
+
+
+
+
+## Module 3: Locality Sensitive Hashing (LSH)
+
+This module introduces Locality Sensitive Hashing as an efficient technique for approximate similarity search in high-dimensional data, commonly used in large-scale data processing tasks.
+
+### Topics Covered
+- Motivation for approximate nearest neighbor search  
+- Concept of locality-sensitive hash functions  
+- Similarity measures and hashing intuition  
+- Applications of LSH in large datasets
+
+### Reference
+- [Locality Sensitive Hashing – Lecture Slides](./Module3-hashing/Locality-Sensitive-Hashing.pdf)
+- [LSH take home ](./Module3-hashing/LSH_takehome)
+- [Class test ](./Module3-hashing/class_test_1) 
+

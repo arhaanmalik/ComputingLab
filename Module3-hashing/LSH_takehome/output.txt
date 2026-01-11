@@ -1,0 +1,90 @@
+Edit Distance between 0 and 1 : 18
+Cosine Similarity between 0 and 1: 0.951865
+Edit Distance between 0 and 2 : 23
+Cosine Similarity between 0 and 2: 0.779643
+Edit Distance between 0 and 3 : 7
+Cosine Similarity between 0 and 3: 0.957895
+Edit Distance between 0 and 4 : 18
+Cosine Similarity between 0 and 4: 0.853145
+Edit Distance between 0 and 5 : 20
+Cosine Similarity between 0 and 5: 0.717067
+Edit Distance between 0 and 6 : 18
+Cosine Similarity between 0 and 6: 0.740333
+Edit Distance between 0 and 7 : 18
+Cosine Similarity between 0 and 7: 0.757858
+Edit Distance between 0 and 8 : 19
+Cosine Similarity between 0 and 8: 0.744968
+Edit Distance between 0 and 9 : 19
+Cosine Similarity between 0 and 9: 0.691434
+Edit Distance between 1 and 2 : 16
+Cosine Similarity between 1 and 2: 0.878283
+Edit Distance between 1 and 3 : 20
+Cosine Similarity between 1 and 3: 0.904363
+Edit Distance between 1 and 4 : 26
+Cosine Similarity between 1 and 4: 0.857165
+Edit Distance between 1 and 5 : 27
+Cosine Similarity between 1 and 5: 0.674799
+Edit Distance between 1 and 6 : 23
+Cosine Similarity between 1 and 6: 0.709678
+Edit Distance between 1 and 7 : 22
+Cosine Similarity between 1 and 7: 0.831309
+Edit Distance between 1 and 8 : 21
+Cosine Similarity between 1 and 8: 0.877279
+Edit Distance between 1 and 9 : 23
+Cosine Similarity between 1 and 9: 0.660638
+Edit Distance between 2 and 3 : 19
+Cosine Similarity between 2 and 3: 0.79816
+Edit Distance between 2 and 4 : 21
+Cosine Similarity between 2 and 4: 0.884579
+Edit Distance between 2 and 5 : 22
+Cosine Similarity between 2 and 5: 0.811963
+Edit Distance between 2 and 6 : 15
+Cosine Similarity between 2 and 6: 0.695473
+Edit Distance between 2 and 7 : 22
+Cosine Similarity between 2 and 7: 0.943839
+Edit Distance between 2 and 8 : 18
+Cosine Similarity between 2 and 8: 0.936555
+Edit Distance between 2 and 9 : 17
+Cosine Similarity between 2 and 9: 0.665912
+Edit Distance between 3 and 4 : 13
+Cosine Similarity between 3 and 4: 0.852082
+Edit Distance between 3 and 5 : 21
+Cosine Similarity between 3 and 5: 0.798493
+Edit Distance between 3 and 6 : 14
+Cosine Similarity between 3 and 6: 0.837914
+Edit Distance between 3 and 7 : 17
+Cosine Similarity between 3 and 7: 0.821995
+Edit Distance between 3 and 8 : 17
+Cosine Similarity between 3 and 8: 0.746605
+Edit Distance between 3 and 9 : 16
+Cosine Similarity between 3 and 9: 0.769948
+Edit Distance between 4 and 5 : 19
+Cosine Similarity between 4 and 5: 0.754117
+Edit Distance between 4 and 6 : 23
+Cosine Similarity between 4 and 6: 0.605565
+Edit Distance between 4 and 7 : 17
+Cosine Similarity between 4 and 7: 0.877521
+Edit Distance between 4 and 8 : 24
+Cosine Similarity between 4 and 8: 0.792164
+Edit Distance between 4 and 9 : 25
+Cosine Similarity between 4 and 9: 0.715277
+Edit Distance between 5 and 6 : 18
+Cosine Similarity between 5 and 6: 0.822204
+Edit Distance between 5 and 7 : 14
+Cosine Similarity between 5 and 7: 0.854306
+Edit Distance between 5 and 8 : 23
+Cosine Similarity between 5 and 8: 0.749141
+Edit Distance between 5 and 9 : 23
+Cosine Similarity between 5 and 9: 0.753429
+Edit Distance between 6 and 7 : 21
+Cosine Similarity between 6 and 7: 0.766525
+Edit Distance between 6 and 8 : 19
+Cosine Similarity between 6 and 8: 0.714721
+Edit Distance between 6 and 9 : 17
+Cosine Similarity between 6 and 9: 0.734517
+Edit Distance between 7 and 8 : 22
+Cosine Similarity between 7 and 8: 0.903511
+Edit Distance between 7 and 9 : 21
+Cosine Similarity between 7 and 9: 0.78181
+Edit Distance between 8 and 9 : 6
+Cosine Similarity between 8 and 9: 0.70447
